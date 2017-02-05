@@ -1,21 +1,14 @@
 {
-  "name": "MEANbeltexam",
-  "version": "1.0.0",
-  "description": "",
+  "name": "Login_And_Registration",
+  "version": "0.0.1",
+  "description": "Full Mean assignment",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "peachteaboba",
   "dependencies": {
-    "body-parser": "^1.15.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "latest",
     "colors": "^1.1.2",
-    "express": "^4.13.4",
-    "express-session": "^1.14.1",
-    "mongoose": "^4.4.13",
-    "path": "^0.12.7"
+    "express": "latest",
+    "mongoose": "latest"
   }
 }
